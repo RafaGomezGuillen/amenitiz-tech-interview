@@ -1,4 +1,4 @@
-# Amenitiz
+# Amenitiz Technical Interview
 
 This is a code challenge I bravely fought for [amenitiz](https://github.com/amenitiz). They reached out, we had a first interview, and then they handed me this [Code challenge](https://github.com/amenitiz/be-technical-challenge) like it was the final boss battle.
 
